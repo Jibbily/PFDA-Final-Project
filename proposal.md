@@ -28,3 +28,7 @@ Create main function, and necessary code that tracks "game pieces" such as playe
 Create code that tracks dice state and updates amount
 Create gameplay loop of players placing their bids or calling challenges
 Add print directions to clearly prompt input, and add hidden mechanic to only display player info for the current player only
+
+## Video
+
+https://drive.google.com/file/d/1ZCbYGhUEL5uF136cfCpdInnIcCDE4I55/view?usp=sharing
